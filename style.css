@@ -1,0 +1,134 @@
+	* {
+		box-sizing: border-box;
+		max-width: 100%;
+	}
+	body {
+		background-image: url(img/back.jpg);
+		max-width: 100%;
+		font-family: "lato",sans-serif;
+	}
+	.body{
+		max-width: 70%;
+		margin: 10px auto;
+		clear: both;
+	}
+	.headr{
+			color: black;
+			background-color: #a8ffff ;
+			font-style: italic;
+			font-family: tahoma;
+			text-align: center;
+			font-size: 40px;
+			border-radius: 4px;
+			max-width: 100%;
+		}
+		.copyright{
+			text-align: center;
+		}
+		.copyright a{
+			color: grey;
+			text-decoration: none;
+			max-width: 100%;
+
+		}
+		.copyright a:hover{
+			color: #a8ffff;
+			text-decoration: none;
+			max-width: 100%;
+
+		}
+		.text{
+			max-width: 100%;
+			text-align: right;
+			background-color: white;
+			border-radius: 13px;
+			padding: 3px;
+		}
+		.devloper{
+			text-align: center;
+			border: solid 1px #a8ffff;
+			width: 600px;
+			border-radius: 10px;
+			background-color: #b7d8cb;
+			max-width: 100%;
+		}
+		.tax{
+			border: solid 1px #ebc8c8;
+			max-width: 100%;
+		}
+		img{
+			max-width: 30%;
+			max-height: 30%;
+			border-radius: 100%;
+			border: solid 1px #a8ffff;
+		}
+		.face{
+			text-align: center;
+			background-color:#2d4cf9 ;
+			color: white;
+			max-width: 100%;
+		}
+		.facebook a{
+			text-decoration: none;
+			color: black;
+			max-width: 100%;
+		}
+		.facebook a:hover{
+			text-decoration: none;
+			background-color:#2d4cf9 ;
+			color: white;
+			max-width: 100%;
+		}
+		.img img{
+			max-width: 35%;
+			max-height: 35%;
+			border-radius: 100%;
+
+		}
+		.hosting1{
+			text-align: center;
+			border:solid 1px black;
+			max-width: 200px;
+			color: white;
+			background-color: grey;
+			border-radius: 20px;
+
+
+		}
+	.menu{
+		text-decoration: none;
+		word-spacing: 100px;
+		text-align: center;
+		max-width: 100%;
+	}
+	.one{
+		background-color: #9AF4F2;
+		color: black;
+		border-radius: 6px;
+	}
+	.two{
+		background-color: #9AF4F2;
+		color: black;
+		border-radius: 6px;
+	}
+	.four{
+		background-color: #9AF4F2;
+		color: black;
+		border-radius: 6px;
+	}
+	.menu a{
+		text-decoration: none;
+	}
+	.menu a:hover{
+		text-decoration: none;
+		color: black;
+		background-color: #F3E300;
+	}
+	.ads{
+		max-width: 100%;
+		min-height: 60px;
+		text-align: center;
+	}
+	.video{
+		height: 200px;
+	}
